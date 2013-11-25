@@ -12,6 +12,6 @@ To build, simply place the following dlls in the `Just-Some-Generic-Shooter\Just
 		DigitalRune.Physics.dll
 		DigitalRune.Physics.Specialized.dll
 		
-Be sure to place the correct versions in the folder. If in doubt, place them from the `References\XNA\Windows` folder in the DigitalRune zip.
+Be sure to place the correct versions in the folder. If in doubt, get them from the `References\XNA\Windows` folder in the DigitalRune zip.
 
 You can obtain a copy of these libs from http://www.digitalrune.com/Downloads.aspx
